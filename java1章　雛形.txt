@@ -12,4 +12,4 @@ class Main {
 
 
 
-System.out.println();←これを書くことでコンソール上に表示できる
+System.out.println();←これを書くことでコンソール上に表示できる。
