@@ -1,3 +1,15 @@
 javaで使うコード
 
-System.out.println();
+
+class Main {
+  public static void main(String[] args) {
+
+　　　　System.out.println();
+
+  }
+}
+
+
+
+
+System.out.println();←これを書くことでコンソール上に表示できる
