@@ -1,0 +1,32 @@
+class Main {
+  public static void main(String[] args) {
+    int number = 8;
+    
+    // 変数numberに7をかけて、変数numberを上書きしてください
+    number *= 7;
+    
+    // 変数numberを出力してください
+    System.out.println(number);
+    
+    // 変数numberの値に1を足して、変数numberを上書きしてください
+    number ++ ;
+    
+    // 変数numberを出力してください
+    
+    System.out.println(number);
+  }
+}
+
+
+省略形
+x = x +10; →　x += 10;
+x = x -10; →    x -= 10; 
+x = x *10; →    x *= 10;
+x = x /10; →    x /= 10;
+x = x %10; →    x %= 10;
+
+変数に1を足す、もしくは1を引く場合は、さらなる省略系が存在します。
+「++」という記号は変数に「1を足す」という意味です
+
+x = x+1 ; → x++;
+x = x-1;   → x--; 
